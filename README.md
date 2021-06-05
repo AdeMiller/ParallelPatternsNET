@@ -5,9 +5,7 @@
 **Design Patterns for Decomposition and Coordination on Multicore Architectures**  
 Colin Campbell, Ralph Johnson, Ade Miller and Stephen Toub. Foreword by Tony Hey  
 
-
-
-![Parallel Programming with Microsoft .NET](http://download.codeplex.com/download?ProjectName=parallelpatterns&DownloadId=208860 "Parallel Programming with Microsoft .NET")A book that introduces .NET programmers to patterns for including parallelism in their applications. Examples of these patterns are parallel loops, parallel tasks and data aggregation with map-reduce. Each pattern has its own chapter. Each chapter includes a description of the problem, an example of where the pattern is applicable, and code that implements the solution. On this site you will find; a preliminary draft of the book, the accompanying code samples and answers to the end of chapter questions.
+<img align="left" src="docs/cover.png"/> A book that introduces .NET programmers to patterns for including parallelism in their applications. Examples of these patterns are parallel loops, parallel tasks and data aggregation with map-reduce. Each pattern has its own chapter. Each chapter includes a description of the problem, an example of where the pattern is applicable, and code that implements the solution. On this site you will find; a preliminary draft of the book, the accompanying code samples and answers to the end of chapter questions.
 
 [**Order the hardcopy book or buy the eBook from O’Reilly**](http://oreilly.com/catalog/0790145310262) 
 
@@ -27,7 +25,7 @@ The samples are written in C#, F#  and Visual Basic and use the new [parallel p
 
 **Demos and Talks**
 
-![A-Dash Demo](http://download.codeplex.com/download?ProjectName=parallelpatterns&DownloadId=195622)The demo that does along with the TechEd 2010 [ parallel patterns talk](http://www.ademiller.com/blogs/tech/2010/06/patterns-of-parallel-programming-teched-talk-online/) is also available. This is essentially the sample from Chapter 5 of “[Parallel Programming with Microsoft .NET](http://parallelpatterns.codeplex.com/)” with additional work to show additional patterns used within the same sample to enhance performance of the individual steps within the overall workflow. It also has a much nicer UI and checkboxes that allow the user to select parallel and sequential versions of different parts of the application.
+<img align="left" src="docs/adatum.png"/> The demo that does along with the TechEd 2010 [ parallel patterns talk](http://www.ademiller.com/blogs/tech/2010/06/patterns-of-parallel-programming-teched-talk-online/) is also available. This is essentially the sample from Chapter 5 of “[Parallel Programming with Microsoft .NET](http://parallelpatterns.codeplex.com/)” with additional work to show additional patterns used within the same sample to enhance performance of the individual steps within the overall workflow. It also has a much nicer UI and checkboxes that allow the user to select parallel and sequential versions of different parts of the application.
 
 [**Watch a video of Patterns of Parallel Programming talk at TechEd 2010**](http://www.msteched.com/2010/NorthAmerica/ARC205)
 
